@@ -7,3 +7,6 @@ I'm using mybinder as a virtual jupyter notebook to execute my python code for l
 
 ### Notes
 pd.DataFrame == pd.read_csv
+
+### Economic Data Source:
+1. https://fred.stlouisfed.org/ - data_source = 'fred'
